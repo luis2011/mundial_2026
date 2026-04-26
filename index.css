@@ -36,6 +36,14 @@ body {
   font-size: 2em;
 }
 
+.carousel-item {
+  padding-top: 100px;
+}
+.carousel-item img {
+  height: 225px;
+  width: 275px;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;

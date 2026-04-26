@@ -47,6 +47,13 @@ body{
 //     justify-content: center;
 // }
 
+.carousel-item{
+    padding-top: 100px;
+        img{
+            height: 225px;
+            width: 275px;
+        }
+    }
 
 
 .footer{
@@ -125,4 +132,6 @@ body{
     .mainCenter{
         justify-content: center;
     }
+
+    
 }
